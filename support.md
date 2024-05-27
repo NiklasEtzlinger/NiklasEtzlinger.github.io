@@ -28,8 +28,8 @@ For questions, issues, or feedback, feel free to contact me at [niklasetzlinger.
 ## Additional Information
 
 For more information, please refer to the following documents:
-- [Privacy Policy](PrivacyPolicy.md)
-- [Terms and Conditions](Terms&Conditions.md)
+- [Privacy Policy](https://niklasetzlinger.github.io/Terms&Conditions)
+- [Terms and Conditions](https://niklasetzlinger.github.io/PrivacyPolicy)
 
 ## License
 
