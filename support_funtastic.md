@@ -27,8 +27,8 @@ For questions, issues, or feedback, feel free to contact me at [niklasetzlinger.
 ## Additional Information
 
 For more information, please refer to the following documents:
-- [Privacy Policy](https://niklasetzlinger.github.io/Terms&Conditions)
-- [Terms and Conditions](https://niklasetzlinger.github.io/PrivacyPolicy)
+- [Privacy Policy](https://niklasetzlinger.github.io/Funtastic_Terms&Conditions)
+- [Terms and Conditions](https://niklasetzlinger.github.io/Funtastic_PrivacyPolicy)
 
 ## License
 
