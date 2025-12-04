@@ -2,23 +2,19 @@
 
 ## Description
 
-Bring laughter to your fingertips with Funtastic! 
-Explore thousands of jokes in fun categories—from Puns to Naughty. 
-Save your favorites and share the joy!
+Convert Units fast, easy and precise.
+Omni Unit Converter is your all-in-one tool!
 
 ### Key Features:
 
-**Favorites List:** 
-Save and organize your favorite jokes for quick access.
+**Search for Units:** 
+Find Units fast and effortlessly!
 
 **Easy Navigation:**
-Intuitive interface to find jokes effortlessly.
-
-**Share the Laughter:**
-Share your favorite jokes with friends and family.
+Intuitive interface to find units effortlessly.
 
 **Regular Updates:**
-Fresh jokes added regularly to keep you entertained.
+App updated regularly to keep it fast and smooth.
 
 ## Support
 
@@ -27,11 +23,11 @@ For questions, issues, or feedback, feel free to contact me at [niklasetzlinger.
 ## Additional Information
 
 For more information, please refer to the following documents:
-- [Privacy Policy](https://niklasetzlinger.github.io/Funtastic_PrivacyPolicy)
-- [Terms and Conditions](https://niklasetzlinger.github.io/Funtastic_Terms&Conditions)
+- [Privacy Policy](https://niklasetzlinger.github.io/Omni_PrivacyPolicy)
+- [Terms and Conditions](https://niklasetzlinger.github.io/Omni_TermsAndConditions)
 
 ## License
 
-Copyright © 2024 Niklas Etzlinger. 
+Copyright © 2025 Niklas Etzlinger. 
 
 All rights reserved.
